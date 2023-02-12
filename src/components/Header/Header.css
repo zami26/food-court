@@ -1,0 +1,21 @@
+.header {
+    background-color: violet;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.header a {
+    text-decoration: none;
+    margin-right: 40px;
+    color: white;
+    font-weight: bolder;
+}
+
+.header a:hover {
+    background-color: rgb(97, 80, 80);
+    padding: 8px 18px;
+    border-radius: 7px;
+}

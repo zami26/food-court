@@ -1,0 +1,29 @@
+.item img {
+    width: 260px;
+    height: 260px;
+}
+
+.item {
+    border: 2px solid rgb(97, 80, 80);
+    border-radius: 10px;
+    margin: 20px;
+    width: 280px;
+}
+
+.item button {
+    margin-bottom: 18px;
+    background-color: violet;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+
+.item button a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.item button:hover {
+    background-color: rgb(97, 80, 80);
+}
